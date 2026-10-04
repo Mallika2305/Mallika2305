@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I'm currently working on Python projects and improving my programming skills.<br>👥 I'm looking to collaborate on beginner-friendly Python and software projects.<br>💡 I'm looking for help with Python and project development.<br>🌱 I'm currently learning Programming and development````````````````````````````````````````````````<br>💬 Ask me about Python basics and beginner programming.<br>⚡ Fun fact: I enjoy learning new technologies and building projects.
+📌 I'm currently working on Python projects and improving my programming skills.<br>👥 I'm looking to collaborate on beginner-friendly Python and software projects.<br>💡 I'm looking for help with Python and project development.<br>🌱 I'm currently learning Programming and development <br>💬 Ask me about Python basics and beginner programming.<br>⚡ Fun fact: I enjoy learning new technologies and building projects.
 
 
 ## 🌐 Socials:
